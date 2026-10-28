@@ -5,9 +5,9 @@
 <a href="https://himu-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-himu--dev.vercel.app-7042F8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030014" alt="Portfolio" /></a>
 <a href="mailto:rashadulislamhimu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-B49BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Rashadul-hub&label=Profile%20views&color=7042F8&style=flat-square" alt="Profile views" />
-<a href="https://github.com/Rashadul-hub?tab=followers"><img src="https://img.shields.io/github/followers/Rashadul-hub?label=Followers&style=flat-square&color=7042F8&labelColor=030014" alt="Followers" /></a>
-<a href="https://github.com/Rashadul-hub?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-60-7042F8?style=flat-square&labelColor=030014" alt="Repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=Arefin-Himu&label=Profile%20views&color=7042F8&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Arefin-Himu?tab=followers"><img src="https://img.shields.io/github/followers/Arefin-Himu?label=Followers&style=flat-square&color=7042F8&labelColor=030014" alt="Followers" /></a>
+<a href="https://github.com/Arefin-Himu?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-60-7042F8?style=flat-square&labelColor=030014" alt="Repos" /></a>
 
 </div>
 
@@ -54,7 +54,7 @@ const rashadul = Developer(
 <tr>
 <td width="50%" valign="top">
 
-#### 💬 [groupie_chat_app](https://github.com/Rashadul-hub/groupie_chat_app) ⭐ 3
+#### 💬 [groupie_chat_app](https://github.com/Arefin-Himu/groupie_chat_app) ⭐ 3
 Group-based real-time chat with authentication and live message sync.
 
 ![Flutter](https://img.shields.io/badge/Flutter-7042F8?style=flat-square&logo=flutter&logoColor=white&labelColor=030014)
@@ -63,7 +63,7 @@ Group-based real-time chat with authentication and live message sync.
 </td>
 <td width="50%" valign="top">
 
-#### 🛒 [firebase_ecommerce_app](https://github.com/Rashadul-hub/firebase_ecommerce_app)
+#### 🛒 [firebase_ecommerce_app](https://github.com/Arefin-Himu/firebase_ecommerce_app)
 E-commerce app with Firebase auth, product catalog and cart flow.
 
 ![Flutter](https://img.shields.io/badge/Flutter-7042F8?style=flat-square&logo=flutter&logoColor=white&labelColor=030014)
@@ -74,7 +74,7 @@ E-commerce app with Firebase auth, product catalog and cart flow.
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 [himu-portfolio](https://github.com/Rashadul-hub/himu-portfolio)
+#### 🌐 [himu-portfolio](https://github.com/Arefin-Himu/himu-portfolio)
 My personal portfolio site — [himu-dev.vercel.app](https://himu-dev.vercel.app/)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-7042F8?style=flat-square&logo=typescript&logoColor=white&labelColor=030014)
@@ -83,7 +83,7 @@ My personal portfolio site — [himu-dev.vercel.app](https://himu-dev.vercel.app
 </td>
 <td width="50%" valign="top">
 
-#### 👥 [Employee_Management_System](https://github.com/Rashadul-hub/Employee_Management_System)
+#### 👥 [Employee_Management_System](https://github.com/Arefin-Himu/Employee_Management_System)
 CRUD-driven employee records and management.
 
 ![Flutter](https://img.shields.io/badge/Flutter-7042F8?style=flat-square&logo=flutter&logoColor=white&labelColor=030014)
@@ -94,7 +94,7 @@ CRUD-driven employee records and management.
 <tr>
 <td width="50%" valign="top">
 
-#### ✅ [todo_app_bloc](https://github.com/Rashadul-hub/todo_app_bloc)
+#### ✅ [todo_app_bloc](https://github.com/Arefin-Himu/todo_app_bloc)
 Todo app built around the BLoC pattern.
 
 ![Flutter](https://img.shields.io/badge/Flutter-7042F8?style=flat-square&logo=flutter&logoColor=white&labelColor=030014)
@@ -103,7 +103,7 @@ Todo app built around the BLoC pattern.
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [admin_pannel](https://github.com/Rashadul-hub/admin_pannel) ⭐ 1
+#### 📊 [admin_pannel](https://github.com/Arefin-Himu/admin_pannel) ⭐ 1
 Responsive admin dashboard UI.
 
 ![Flutter](https://img.shields.io/badge/Flutter-7042F8?style=flat-square&logo=flutter&logoColor=white&labelColor=030014)
@@ -119,13 +119,13 @@ Responsive admin dashboard UI.
 
 | Repo | Topic |
 | --- | --- |
-| [mvvmFlutter](https://github.com/Rashadul-hub/mvvmFlutter) | Clean MVVM with Provider |
-| [ui_state_management](https://github.com/Rashadul-hub/ui_state_management) | Stateful vs. stateless patterns |
-| [provider_flutter](https://github.com/Rashadul-hub/provider_flutter) | Provider practice examples |
-| [Riverpod_Flutter](https://github.com/Rashadul-hub/Riverpod_Flutter) | Riverpod fundamentals |
-| [websocket_flutter](https://github.com/Rashadul-hub/websocket_flutter) | Real-time WebSocket integration |
-| [apiFlutter](https://github.com/Rashadul-hub/apiFlutter) · [covid-tracker-app](https://github.com/Rashadul-hub/covid-tracker-app) | REST API consumption |
-| [KothaMigration](https://github.com/Rashadul-hub/KothaMigration) | Java → Kotlin + Jetpack Compose |
+| [mvvmFlutter](https://github.com/Arefin-Himu/mvvmFlutter) | Clean MVVM with Provider |
+| [ui_state_management](https://github.com/Arefin-Himu/ui_state_management) | Stateful vs. stateless patterns |
+| [provider_flutter](https://github.com/Arefin-Himu/provider_flutter) | Provider practice examples |
+| [Riverpod_Flutter](https://github.com/Arefin-Himu/Riverpod_Flutter) | Riverpod fundamentals |
+| [websocket_flutter](https://github.com/Arefin-Himu/websocket_flutter) | Real-time WebSocket integration |
+| [apiFlutter](https://github.com/Arefin-Himu/apiFlutter) · [covid-tracker-app](https://github.com/Arefin-Himu/covid-tracker-app) | REST API consumption |
+| [KothaMigration](https://github.com/Arefin-Himu/KothaMigration) | Java → Kotlin + Jetpack Compose |
 
 </details>
 
@@ -135,17 +135,17 @@ Responsive admin dashboard UI.
 
 ### <samp>GITHUB ANALYTICS</samp>
 
-<img width="82%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashadul-hub&theme=radical" />
+<img width="82%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arefin-Himu&theme=radical" />
 
-<img width="40%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashadul-hub&theme=radical" />
-<img width="40%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashadul-hub&theme=radical" />
+<img width="40%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arefin-Himu&theme=radical" />
+<img width="40%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arefin-Himu&theme=radical" />
 
-<img width="40%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rashadul-hub&theme=radical" />
-<img width="40%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rashadul-hub&utcOffset=6&theme=radical" />
+<img width="40%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arefin-Himu&theme=radical" />
+<img width="40%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arefin-Himu&utcOffset=6&theme=radical" />
 
 <br><br>
 
-<img width="58%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Rashadul-hub&background=030014&border=2A0E61&stroke=2A0E61&ring=7042F8&fire=E59CFF&currStreakNum=FFFFFF&sideNums=B49BFF&currStreakLabel=9CB2FF&sideLabels=9CA3AF&dates=9CA3AF" />
+<img width="58%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Arefin-Himu&background=030014&border=2A0E61&stroke=2A0E61&ring=7042F8&fire=E59CFF&currStreakNum=FFFFFF&sideNums=B49BFF&currStreakLabel=9CB2FF&sideLabels=9CA3AF&dates=9CA3AF" />
 
 </div>
 
@@ -155,7 +155,7 @@ Responsive admin dashboard UI.
 
 ### <samp>CONTRIBUTION GRAPH</samp>
 
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/Rashadul-hub/Rashadul-hub/output/github-snake-purple.svg" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/Arefin-Himu/Arefin-Himu/output/github-snake-purple.svg" />
 
 </div>
 
@@ -167,7 +167,7 @@ Responsive admin dashboard UI.
 
 <a href="https://himu-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7042F8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030014" alt="Portfolio"></a>
 <a href="mailto:rashadulislamhimu@gmail.com"><img src="https://img.shields.io/badge/Email-B49BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email"></a>
-<a href="https://github.com/Rashadul-hub"><img src="https://img.shields.io/badge/GitHub-E59CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=030014" alt="GitHub"></a>
+<a href="https://github.com/Arefin-Himu"><img src="https://img.shields.io/badge/GitHub-E59CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=030014" alt="GitHub"></a>
 <a href="https://m.me/rashadulislam4"><img src="https://img.shields.io/badge/Messenger-9CB2FF?style=for-the-badge&logo=messenger&logoColor=white&labelColor=030014" alt="Messenger"></a>
 <a href="https://www.instagram.com/__himu_04/"><img src="https://img.shields.io/badge/Instagram-BA9CFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030014" alt="Instagram"></a>
 
